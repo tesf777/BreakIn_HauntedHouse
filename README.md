@@ -1,2 +1,2 @@
 # BreakIn_HauntedHouse
-NEU智闯鬼屋个人实现
+个人实现，写的一般
